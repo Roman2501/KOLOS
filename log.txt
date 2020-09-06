@@ -1,0 +1,11 @@
+commit 9edbc5150a4ce7982480f0a57e2a185c3214b587
+Author: Roman Kushla <kushla2501@gmail.com>
+Date:   Sun Sep 6 15:33:08 2020 +0300
+
+    ignorowane .docx
+
+commit 92821c9a6777318c891f57b07fdf6a4264b7d85c
+Author: Roman Kushla <kushla2501@gmail.com>
+Date:   Sun Sep 6 15:08:52 2020 +0300
+
+    ryba
