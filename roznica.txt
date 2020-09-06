@@ -1,0 +1,12 @@
+diff --git a/Rzeka.txt b/Rzeka.txt
+index c3dd8f1..c8fe3e6 100644
+--- a/Rzeka.txt
++++ b/Rzeka.txt
+@@ -1 +1 @@
+-W rzece Heraklita ryba <C5><82>owi ryby, ryba <C4><87>wiartuje ryb<C4><99> ostr
+<C4><85> ryb<C4><85>, ryba buduje ryb<C4><99>, ryba mieszka w rybie, ryba ucieka z obl<C4><99><C5><BC>onej ryby.
+\ No newline at end of file
++W rzece Heraklita dorsz <C5><82>owi dorsz, dorsz <C4><87>wiartuje dorsz ostr<C4>
+<85> dorsz, dorsz buduje dorsz, dorsz mieszka w dorsz, dorsz ucieka z obl<C4><99>
+<C5><BC>onej dorsz.
+\ No newline at end of file
